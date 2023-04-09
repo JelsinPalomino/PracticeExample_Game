@@ -26,6 +26,7 @@ python firtGame.py
 
 - Refactorizar el codigo
 - Modularizar
+- Crear un .exe
 
 #### Fuente: 
 
